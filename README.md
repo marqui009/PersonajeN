@@ -30,13 +30,17 @@ El personaje hara momientos en las manos y la cabeza, y cuando se hacerque algui
 | LEDS |<img src="https://github.com/user-attachments/assets/43e6d92e-86f7-49b5-8e81-773b60db4e5f" width="100"/> | Varias |15|
 
 # Software a utilizar
-
-![Imagen de WhatsApp 2024-10-15 a las 02 44 46_ae30204a](https://github.com/user-attachments/assets/55520c0f-5469-4321-93b5-53750e08692b)
+| Programa | Version |
+|--|--|
+|Thony|2.6|
+|Arduino|Actual|
 
 # Enlaces de la simulacion en WOKWI
 
-https://wokwi.com/projects/412643106435673089
-![image](https://github.com/user-attachments/assets/e5e0cab7-bed5-471e-b00d-fea49c5fc5d7)
+https://wokwi.com/projects/412665291971464193
+![image](https://github.com/user-attachments/assets/2ba3764e-0291-42f5-aa83-83ae45f26c7e)
+![image](https://github.com/user-attachments/assets/c8b251ed-52da-42ea-8dcb-645d04f13a49)
+
 
 # Examenes de Cisco
 # Modulo 1
