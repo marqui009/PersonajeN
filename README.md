@@ -48,7 +48,7 @@ https://drive.google.com/drive/folders/17hW3uBWVpNMYeDvgQIop2hYvr8uDI_4y?usp=dri
  # Avance del proyecto 
 https://drive.google.com/drive/folders/1J7qj808Qa6c--ct7nMn1JPN8BAJP8Mon?usp=sharing
  # Coevaluacion
- 
+ Mi compañera Mildred, trabaja bien mientro yo hago el circuito ella se encarga de tener el codigo bien simulandolo en wokwi para que funcione correctamente, aunque su eficiencia de vez en cuando no es adecuando ya que se tarda algo de tiempo , se desespera un poco y se enojas y me reprendes cuando no le gusta algo.  
 
 # Examenes de Cisco
 # Modulo 1
