@@ -34,7 +34,12 @@ El personaje hara momientos en las manos y la cabeza, y cuando se hacerque algui
 |--|--|
 |Thony|2.6|
 |Arduino|Actual|
-
+## Evaluación Unidad 2
+### Ejercicio integral de la unidad:
+Alarma de Nivel de Agua con LED RGB, buzzer, OLED
+#### Descripción:
+Detecta el nivel de agua en un tanque y cambia el color del LED RGB según el nivel. Si el agua está demasiado alta o baja, suena una alarma y el nivel se muestra en la OLED.
+https://drive.google.com/drive/folders/1LypyIVtEL8QR7jGRBjFCEiuI9qTJFS1q?usp=sharing
 
 
  # Ejercicios en clase 
