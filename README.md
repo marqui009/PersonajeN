@@ -43,6 +43,13 @@ https://wokwi.com/projects/412665291971464193
  # Video de explicacion de WOKWI
  https://drive.google.com/file/d/1B2kYnYN5o8qrj9lXWD7SLtxpRcR1-kVL/view?usp=drive_link
 
+ # Ejercicios en clase 
+https://drive.google.com/drive/folders/17hW3uBWVpNMYeDvgQIop2hYvr8uDI_4y?usp=drive_link
+ # Avance del proyecto 
+https://drive.google.com/drive/folders/1J7qj808Qa6c--ct7nMn1JPN8BAJP8Mon?usp=sharing
+ # Coevaluacion
+ 
+
 # Examenes de Cisco
 # Modulo 1
 ![image](https://github.com/user-attachments/assets/0d7b8083-20ce-47cd-b106-cecb8f74ee68)
