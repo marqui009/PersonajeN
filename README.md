@@ -6,10 +6,10 @@ Marcos Ontiveros Nolasco
 
 # Nombre del personaje
 
-Oggie Boogie
-
+Santa
 # imagen del personaje 
-![image](https://github.com/user-attachments/assets/ab5c4a90-172a-4d51-9819-4004be5e11f6)
+![image](https://github.com/user-attachments/assets/d3ac680f-0a52-4577-a42d-b17ce8e866ab)
+
 
 
 # Explicacion del funcionamiento
@@ -35,13 +35,7 @@ El personaje hara momientos en las manos y la cabeza, y cuando se hacerque algui
 |Thony|2.6|
 |Arduino|Actual|
 
-# Enlaces de la simulacion en WOKWI
 
-https://wokwi.com/projects/412665291971464193
-![image](https://github.com/user-attachments/assets/2ba3764e-0291-42f5-aa83-83ae45f26c7e)
-![image](https://github.com/user-attachments/assets/c8b251ed-52da-42ea-8dcb-645d04f13a49)
- # Video de explicacion de WOKWI
- https://drive.google.com/file/d/1B2kYnYN5o8qrj9lXWD7SLtxpRcR1-kVL/view?usp=drive_link
 
  # Ejercicios en clase 
 https://drive.google.com/drive/folders/17hW3uBWVpNMYeDvgQIop2hYvr8uDI_4y?usp=drive_link
